@@ -1,0 +1,340 @@
+ Move:1  10
+    o o o 
+    o o o 
+o o o o o o o 
+o o o o x o o 
+o o o o o o o 
+    o o o 
+    o o o 
+
+
+Move:1  63
+    o o o 
+    o o o 
+o o o o o o o 
+o o o o o o o 
+o o o o x o o 
+    o o x 
+    o o o 
+
+
+Move:-1  7
+    o o o 
+    o o o 
+o o o o o o o 
+o o o o o o o 
+o o o o x o o 
+    o o x 
+    o o o 
+
+
+Move:1  63
+    o o o 
+    o o o 
+o o o o o o o 
+o o o o o o o 
+o o o o x o o 
+    o o x 
+    o o o 
+
+
+Move:10  9
+    o o o 
+    o o o 
+o o o o o o o 
+o o o o o o o 
+o o x x o o o 
+    o o x 
+    o o o 
+
+
+Move:1  53
+    o o o 
+    o o o 
+o o o o o o o 
+o o o o o o o 
+o o o x o o o 
+    x o x 
+    x o o 
+
+
+Move:-1  52
+    o o o 
+    o o o 
+o o o o o o o 
+o o x o o o o 
+o o x x o o o 
+    o o x 
+    x o o 
+
+
+Move:-1  54
+    o o o 
+    x o o 
+o o x o o o o 
+o o o o o o o 
+o o x x o o o 
+    o o x 
+    x o o 
+
+
+Move:10  55
+    o o o 
+    x o o 
+x x o o o o o 
+o o o o o o o 
+o o x x o o o 
+    o o x 
+    x o o 
+
+
+Move:10  53
+    o o o 
+    x o o 
+x x o o o o o 
+o o o o o o o 
+x x o x o o o 
+    o o x 
+    x o o 
+
+
+Move:1  56
+    o o o 
+    o o o 
+x x x o o o o 
+o o x o o o o 
+x x o x o o o 
+    o o x 
+    x o o 
+
+
+Move:-10  55
+    o o o 
+    o o o 
+x x o x x o o 
+o o x o o o o 
+x x o x o o o 
+    o o x 
+    x o o 
+
+
+Move:-1  11
+    o o x 
+    o o x 
+x x o x o o o 
+o o x o o o o 
+x x o x o o o 
+    o o x 
+    x o o 
+
+
+Move:10  13
+    x x o 
+    o o x 
+x x o x o o o 
+o o x o o o o 
+x x o x o o o 
+    o o x 
+    x o o 
+
+
+Move:1  54
+    x x o 
+    o o x 
+x x o x o o o 
+o o o o o o o 
+x x x x o o o 
+    x o x 
+    x o o 
+
+
+Move:-1  53
+    x x o 
+    o o x 
+x x x x o o o 
+o o x o o o o 
+x x o x o o o 
+    x o x 
+    x o o 
+
+
+Move:10  54
+    x x o 
+    o o x 
+x x x x o o o 
+x x o o o o o 
+x x o x o o o 
+    x o x 
+    x o o 
+
+
+Move:1  55
+    x x o 
+    o o x 
+x x o x o o o 
+x x x o o o o 
+x x x x o o o 
+    x o x 
+    x o o 
+
+
+Move:-1  8
+    x x o 
+    o o x 
+x x o x o o o 
+x x x o x o o 
+x x x x x o o 
+    x o o 
+    x o o 
+
+
+Move:1  9
+    x x o 
+    o o x 
+x x o x o o o 
+x x x o x o o 
+x x x x o o o 
+    x o x 
+    x o x 
+
+
+Move:1  63
+    x x o 
+    o o x 
+x x o x o o o 
+x x x o x o o 
+x x x o o o o 
+    x x x 
+    x x x 
+
+
+Move:1  1
+    x x o 
+    o o x 
+x x o o o o o 
+x x x x x o o 
+x x x x o o o 
+    x x x 
+    x x x 
+
+
+Move:-1  0
+    x x o 
+    o x x 
+x x o x o o o 
+x x x o x o o 
+x x x x o o o 
+    x x x 
+    x x x 
+
+
+Move:-1  54
+    x x o 
+    x x x 
+x x x x o o o 
+x x o o x o o 
+x x x x o o o 
+    x x x 
+    x x x 
+
+
+Move:10  10
+    x x o 
+    x x x 
+x x x x o o o 
+x x x x o o o 
+x x x x o o o 
+    x x x 
+    x x x 
+
+
+Move:-1  8
+    x x o 
+    x x x 
+x x x x o o o 
+x x x x x o o 
+x x x x x o o 
+    x x o 
+    x x x 
+
+
+Move:-10  9
+    x x o 
+    x x x 
+x x x x o o o 
+x x x x x o o 
+x x x x o x x 
+    x x o 
+    x x x 
+
+
+Move:1  10
+    x x o 
+    x x x 
+x x x x o o o 
+x x x x o o o 
+x x x x x x x 
+    x x x 
+    x x x 
+
+
+Move:1  12
+    x x o 
+    x x o 
+x x x x x o o 
+x x x x x o o 
+x x x x x x x 
+    x x x 
+    x x x 
+
+
+Move:-1  11
+    x x x 
+    x x x 
+x x x x o o o 
+x x x x x o o 
+x x x x x x x 
+    x x x 
+    x x x 
+
+
+Move:-10  10
+    x x x 
+    x x x 
+x x x x o o o 
+x x x x o x x 
+x x x x x x x 
+    x x x 
+    x x x 
+
+
+Move:1  12
+    x x x 
+    x x o 
+x x x x x o o 
+x x x x x x x 
+x x x x x x x 
+    x x x 
+    x x x 
+
+
+Move:-10  11
+    x x x 
+    x x o 
+x x x x o x x 
+x x x x x x x 
+x x x x x x x 
+    x x x 
+    x x x 
+
+
+Move:-1  10
+    x x x 
+    x x x 
+x x x x x x x 
+x x x x o x x 
+x x x x x x x 
+    x x x 
+    x x x 
+
+
